@@ -3,4 +3,3 @@ Initial commit on master
 Initial commit on test branch
 Commit new
 This will be discard by staging area
-Uncommited changes
